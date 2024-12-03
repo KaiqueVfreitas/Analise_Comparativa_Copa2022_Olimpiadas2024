@@ -1,0 +1,16 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretório de dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de configuração do sistema operacional
+.DS_Store
+
+# Ignorar diretório de build
+/build
+
+# Ignorar arquivos temporários
+*.tmp
+
+PerguntasResponder.txt
