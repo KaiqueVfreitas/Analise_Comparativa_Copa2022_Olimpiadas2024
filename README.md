@@ -1,4 +1,4 @@
-<h1>🏅Análise Comparativa da Olimpíadas 2024 e da Copa 2022 ⚽</h1>
+<h1>🏅 Análise Comparativa da Olimpíadas 2024 e da Copa 2022 ⚽</h1>
 <p>
   Este projeto realiza uma análise descritiva comparando dados das Olimpíadas de 2024 com a Copa do Mundo de 2022.  
   Utilizamos ferramentas como Excel, Power BI e PowerPoint para organizar, visualizar e apresentar os insights obtidos.
@@ -21,6 +21,21 @@
   <li><b>Power BI:</b> Para criação de gráficos e dashboards interativos.</li>
   <li><b>CSV:</b> Fonte dos dados analisados.</li>
   <li><b>PowerPoint:</b> Para apresentação final dos resultados.</li>
+</ul>
+
+<h2>🧩 Habilidades Demonstradas</h2>
+<ul>
+  <li>
+    <b>Aquisição de Dados:</b> Os dados foram coletados de fontes confiáveis, como:
+    <ul>
+      <li>Google Trends: Para analisar tendências de busca relacionadas aos eventos.</li>
+      <li>IBGE: Dados estatísticos sobre impacto econômico e social no Brasil.</li>
+      <li>FIFA e COI: Informações oficiais sobre audiência e métricas dos eventos.</li>
+    </ul>
+  </li>
+  <li><b>Limpeza de Dados:</b> Padronização, tratamento de valores ausentes e normalização.</li>
+  <li><b>Visualização:</b> Criação de gráficos e dashboards interativos para análise e insights.</li>
+  <li><b>Apresentação:</b> Comunicação visual dos resultados de forma atrativa e objetiva.</li>
 </ul>
 
 <h2>📁 Estrutura do Projeto</h2>
