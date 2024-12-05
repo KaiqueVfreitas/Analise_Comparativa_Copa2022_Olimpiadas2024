@@ -61,3 +61,8 @@
   <li>Abra a pasta <code>Graficos/</code> para os dashboards no Power BI.</li>
   <li>Visualize a apresentação completa em <code>Apresentacao.ppxt</code>.</li>
 </ol>
+
+<h2>⚠️ Observações</h2>
+<ul>
+  <li>Como forma de demonstrar domínio avançado em Excel, os mesmos resultados foram alcançados utilizando diferentes abordagens, como VBA, fórmulas e tabelas dinâmicas.</li>
+</ul>
